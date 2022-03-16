@@ -74,7 +74,7 @@ Puis ensuite, `git lg --all` vous donne
 
 Maintenant, tous les membres de l’équipe doivent cloner le projet.
 
-Avant de cloner le projet, depuis un terminal ou cmder, placez-vous dans la dossier où vous voulez cloner le dépôt git (cloner 1 dépôt = récupérer les sources qui sont sur gitlab, cela va créer un répertoire sur votre machine).
+Avant de cloner le projet, depuis un terminal ou cmder, placez-vous dans le dossier où vous voulez cloner le dépôt git (cloner 1 dépôt = récupérer les sources qui sont sur gitlab, cela va créer un répertoire sur votre machine).
 
 Sur le lien que votre chef de projet vous a envoyé, cliquez sur « clone » et copiez le lien https
 
@@ -167,7 +167,7 @@ git pull
 
 - La première ligne permet d’indexer vos modifications
 - La deuxième ligne permet de commiter vos modifications.
-- La troisième ligne permet de tirer les sources depuis le serveur. Attention, vous tirez toutes les branches qui ont été poussées sur le git, ainsi que la branche `master` avec les modifications que vos camarades ont pu y apporter.
+- La troisième ligne permet de récupérer la branche active depuis le serveur et de la fusionner avec la branche locale.
 
 ### 8.2 – Fusionner la branche `master` et votre branche
 
