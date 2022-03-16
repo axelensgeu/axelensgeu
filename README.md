@@ -88,7 +88,8 @@ git clone [adresse_copiée]
 
 Vous allez maintenant pouvoir commencer à travailler.
 
-<div id="import-issues"></div>
+<a name="import-issues"></a>
+
 **Note pour les chefs de projet :** Maintenant que votre clone est en local, pensez à importer les issues sur le projet principal, sur GitLab. Pour cela, dans GitLab, allez dans le menu *Issues*, puis importez le fichier CSV présent dans `/Sujet_TP/<fichier.csv>` du clone.
 
 ## 6 – Le projet
