@@ -30,6 +30,8 @@ GitLab vous propose alors de le forker dans votre « namespace » (à priori v
 
 En vous rendant sur la page d’accueil de GitLab, vous retrouvez le lien vers votre projet. Communiquez l’adresse aux membres de votre équipe.
 
+**Note:** il faudra également penser à [importer les issues du projet principal](#import-issues), au point 5.
+
 ## 4 – Configuration de GIT
 
 ### 4.1 – Prérequis :
@@ -85,6 +87,9 @@ git clone [adresse_copiée]
 ```
 
 Vous allez maintenant pouvoir commencer à travailler.
+
+<div id="import-issues"></div>
+**Note pour les chefs de projet :** Maintenant que votre clone est en local, pensez à importer les issues sur le projet principal, sur GitLab. Pour cela, dans GitLab, allez dans le menu *Issues*, puis importez le fichier CSV présent dans `/Sujet_TP/<fichier.csv>` du clone.
 
 ## 6 – Le projet
 
